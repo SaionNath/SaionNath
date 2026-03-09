@@ -1,11 +1,114 @@
-<h1 align="center">Hi 👋, I'm Saion Deb Nath</h1>
-<h3 align="center">Full Stack Developer</h3>
+<img src="git_banner.png" width="100%" />
 
-- 📫 How to reach me **saionnath@gmail.com**
+<h1 align="center">Hi 👋 I'm Saion Nath</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+Mobile+App+Developer;Interested+in+Game+Development;CSE+Student+%7C+Software+Developer">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+📍 Chattogram, Bangladesh <br>
+📧 saion@email.com
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate Computer Science and Engineering student who enjoys
+building software and solving real-world problems.
+
+I am interested in **backend development, system design, and web applications**.
+Currently focusing on improving my programming and development skills.
+
+---
+
+## 🚀 Current Activities
+
+- 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
+- 🌱 Using **Node.js, Express.js, MongoDB** for the backend.
+- 💻 Practicing **problem solving using C++**
+- 📚 Exploring **modern web development technologies**
+
+---
+
+## 🛠 TECHNOLOGY STACK
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
+
+### 🎨 CSS Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,css" />
+</p>
+
+### ⚡ JavaScript Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🚀 Deployment Platform
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+### 🎨 Design & Graphics
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+### 🧰 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:saionnath@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SaionNath&show_icons=true&theme=tokyonight" />
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaionNath&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaionNath&theme=tokyonight" />
+
+</p>
+
+---
+
+⭐ From [Saion Nath](https://github.com/SaionNath)
