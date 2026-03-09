@@ -25,7 +25,7 @@ Currently focusing on improving my programming and development skills.
 
 ## 🚀 Current Activities
 
-- 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
+- 🔭 I’m currently working on **React.js, Next.js** for frontend development.
 - 🌱 Using **Node.js, Express.js, MongoDB** for the backend.
 - 💻 Practicing **problem solving using C++**
 - 📚 Exploring **modern web development technologies**
