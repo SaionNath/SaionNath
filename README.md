@@ -111,4 +111,20 @@ Currently focusing on improving my programming and development skills.
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/SaionNath/city-resolve-client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=city-resolve&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/SaionNath/Travel_Ease_client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=travel_ease&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
 ⭐ From [Saion Nath](https://github.com/SaionNath)
