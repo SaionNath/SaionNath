@@ -13,17 +13,19 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 I am a passionate Computer Science and Engineering student who enjoys
 building software and solving real-world problems.
+
+I enjoy building scalable web applications and solving real-world problems through technology.
 
 I am interested in **backend development, system design, and web applications**.
 Currently focusing on improving my programming and development skills.
 
 ---
 
-## 🚀 Current Activities
+<h2 align="center">🚀 Current Activities</h2>
 
 - 🔭 I’m currently working on **React.js, Next.js** for frontend development.
 - 🌱 Using **Node.js, Express.js, MongoDB** for the backend.
@@ -32,56 +34,56 @@ Currently focusing on improving my programming and development skills.
 
 ---
 
-## 🛠 TECHNOLOGY STACK
+<h2 align="center">🛠 TECHNOLOGY STACK</h2>
 
 ### 💻 Languages
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 ### 🎨 CSS Frameworks & Libraries
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tailwind,css" />
 </p>
 
 ### ⚡ JavaScript Frameworks & Libraries
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
 
 ### 🗄 Database
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🚀 Deployment Platform
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
 ### 🎨 Design & Graphics
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ### 🧰 Tools & Technologies
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://discord.com/users/1071838055176077414"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://www.linkedin.com/in/saion-deb-nath"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:saionnath@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 
@@ -91,7 +93,7 @@ Currently focusing on improving my programming and development skills.
 
 ---
 
-## 💻 Most Used Languages
+<h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
 
@@ -101,7 +103,7 @@ Currently focusing on improving my programming and development skills.
 
 ---
 
-## 🔥 GitHub Streak
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
 
@@ -111,16 +113,55 @@ Currently focusing on improving my programming and development skills.
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🏙️ City Resolve</h3>
 
 <p align="center">
-<a href="https://github.com/SaionNath/city-resolve-client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaionNath&repo=city-resolve-client&theme=tokyonight" />
-</a>
-<a href="https://github.com/SaionNath/Travel_Ease_client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaionNath&repo=Travel_Ease_client&theme=tokyonight" />
+<a href="https://city-resolve-client.web.app">
+<img src="assets/projects/city-resolve.png" width="100%" height="250" style="object-fit:cover;border-radius:10px;">
 </a>
 </p>
+
+<p align="center">
+A public infrastructure issue reporting system that connects citizens,
+staff, and administrators to manage city problems efficiently.
+</p>
+
+<p align="center">
+<a href="https://city-resolve-client.web.app">🌐 Live Demo</a> |
+<a href="https://github.com/SaionNath/city-resolve-client">💻 Repository</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">✈️ Travel Ease</h3>
+
+<p align="center">
+<a href="https://travel-ease-a32b9.web.app">
+<img src="assets/projects/travel-ease.png" width="100%" height="250" style="object-fit:cover;border-radius:10px;">
+</a>
+</p>
+
+<p align="center">
+A tourism platform designed to help users explore destinations and
+plan their trips easily with an interactive interface.
+</p>
+
+<p align="center">
+<a href="https://travel-ease-a32b9.web.app">🌐 Live Demo</a> |
+<a href="https://github.com/SaionNath/Travel_Ease_client">💻 Repository</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
